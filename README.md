@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Estudiante de ingeniería de sistemas
 <!--
 **Vane2005/Vane2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
