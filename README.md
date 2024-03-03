@@ -1,5 +1,5 @@
 ### Hi 👋
-### 🔭 I’m currently studing at Universidad del Valle ...
+### 🔭 I’m currently studying at Universidad del Valle ...
 <!--
 **Vane2005/Vane2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
